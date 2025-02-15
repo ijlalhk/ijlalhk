@@ -15,7 +15,7 @@
 
 ### 🚀 About Me
 
-I am a **Software Developer & Business Intelligence Engineer** with **4+ years** of experience in developing efficient software solutions, **data pipeline automation**, and **AI/ML integrations**. 
+I am a **Software Developer & Business Intelligence Engineer** with **1.5+ years** of experience in developing efficient software solutions, **data pipeline automation**, and **AI/ML integrations**. 
 
 With a **Master's in Computer Science from the University of Oulu**, my work involves **backend development**, **automation**, and **distributed systems**. My passion lies in solving complex problems with technology.
 
