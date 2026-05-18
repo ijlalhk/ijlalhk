@@ -83,13 +83,26 @@ Currently building a production **RAG** system with hybrid retrieval, LLM-based 
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ijlalhk&show_icons=true&theme=radical" alt="GitHub Stats">
+  <a href="https://github.com/ijlalhk">
+    <img height="165" src="https://github-readme-stats.vercel.app/api?username=ijlalhk&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=radical&cache_seconds=86400" alt="Ijlal's GitHub Stats">
+  </a>
+  <a href="https://github.com/ijlalhk">
+    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijlalhk&layout=compact&langs_count=8&hide_border=true&theme=radical&cache_seconds=86400" alt="Top Languages">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ijlalhk&theme=dark" alt="GitHub Streak">
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ijlalhk&theme=radical&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ijlalhk&layout=compact&theme=radical" alt="Top Languages">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ijlalhk&theme=radical&no-frame=true&column=7&margin-w=10" alt="GitHub Trophies">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ijlalhk&label=Profile%20views&color=ff4b8b&style=flat" alt="Profile views">
 </p>
